@@ -1,0 +1,16 @@
+# Power BI cache files
+*.pbitmp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
